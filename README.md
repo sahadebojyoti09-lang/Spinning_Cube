@@ -15,9 +15,13 @@ This project runs entirely on standard Python libraries. No external dependencie
 Open your terminal and run the following commands to download the project:
 ```
 git clone [https://github.com/sahadebojyoti09-lang/Spinning_Cube.git](https://github.com/sahadebojyoti09-lang/Spinning_Cube.git)
+```
+then,
+
+```
 cd Spinning_Cube
 ```
-###3. Execute the Script
+### 3. Execute the Script
 Launch the animation by executing the Python file:
 ```
 python3 cube.py
